@@ -1,0 +1,13 @@
+Bear
+Boar
+Coyote
+Deer
+Fox
+Goat
+Hyena
+Leopard
+Lion
+Monkey
+Rabbit
+Squirrel
+Wolves
