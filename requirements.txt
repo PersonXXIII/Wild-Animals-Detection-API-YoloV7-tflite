@@ -1,4 +1,9 @@
+# For GPU (CUDA) Use
+# tensorflow[and-cuda]
+
+# For CPU Use
 tensorflow
+
 pillow
 flask
 requests
