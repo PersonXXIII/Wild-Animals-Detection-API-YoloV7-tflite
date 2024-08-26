@@ -17,7 +17,7 @@ This piece of code is an API which uses Yolov7 trained model to detect wild anim
 #
 **MODEL**
 > YoloV7.<br><br>
-The Trained model: [Trained Model]([[https://drive.google.com/file/d/1BY4JS460L1WCz6p1UwZW_Un8bHWWXVW_/view?usp=drivesdk](https://drive.google.com/file/d/1_JRo-pOujewBK0O-wJmKLhHWK0yzT4YY/view?usp=drive_link)](https://drive.google.com/file/d/1_JRo-pOujewBK0O-wJmKLhHWK0yzT4YY/view)).<br>
+The Trained model: [Trained Model](https://drive.google.com/file/d/1_JRo-pOujewBK0O-wJmKLhHWK0yzT4YY/view?usp=drive_link).<br>
 The training was done by my fellow [Waheed Anwar](https://github.com/Waheed9002/AR-Hiking-App.git).
 #
 **DATASET**<br>
